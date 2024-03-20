@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Zona Inicial","order":1,"parentId":0,"scrollX":651,"scrollY":367},
+{"id":2,"expanded":true,"name":"Poblado","order":2,"parentId":1,"scrollX":651,"scrollY":449},
+{"id":3,"expanded":false,"name":"Almacen","order":3,"parentId":2,"scrollX":651,"scrollY":389},
+{"id":4,"expanded":false,"name":"Casa1","order":4,"parentId":2,"scrollX":651,"scrollY":367},
+{"id":5,"expanded":true,"name":"Poblado2","order":5,"parentId":1,"scrollX":651,"scrollY":833},
+{"id":6,"expanded":false,"name":"Mazmorra1","order":10,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"Armas","order":6,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"Posiones","order":7,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":false,"name":"Carcel","order":8,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":false,"name":"Comida","order":9,"parentId":5,"scrollX":0,"scrollY":0}
+]
